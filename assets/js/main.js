@@ -170,16 +170,16 @@ document.write(meinString)
 
 console.log("%c Output-Level-1_4", "color: blue; background-color: gold");
 
-// window.alert("Hallo Welt");
+window.alert("Hallo Welt");
 
-// window.prompt("Bitte geben Sie Ihren Namen ein.");
-// window.prompt("Bitte geben Sie Ihren Namen ein", "Cancel");
-// window.confirm("Stimmen Sie meiner Meinung zu?");
-// let alter = window.prompt("Gib mir bitte dein Alter:");
-// console.log(alter);
-// let b2 = 5;
-// let a2 = b * 5 - 3;
-// window.alert(a);
+window.prompt("Bitte geben Sie Ihren Namen ein.");
+window.prompt("Bitte geben Sie Ihren Namen ein", "Cancel");
+window.confirm("Stimmen Sie meiner Meinung zu?");
+let alter = window.prompt("Gib mir bitte dein Alter:");
+console.log(alter);
+let b2 = 5;
+let a2 = b * 5 - 3;
+window.alert(a);
 let mann = "Robert Wadlow ist der größte Mann der Welt : ";
 let grosse = "2,72m";
 window.confirm(mann + grosse);
