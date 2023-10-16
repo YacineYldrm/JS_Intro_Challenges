@@ -78,7 +78,7 @@ console.log(r);
 // const r = 34;
 // console.log(r);
 // r = 68; 
-// const lässt sich nicht überschreiben, da es sich dabei um eine konstanten Variable handelt, der im laufe des Programms nicht verändert oder überschrieben werden kann.
+// const lässt sich nicht überschreiben, da es sich dabei um eine konstante Variable handelt, die im laufe des Programms nicht verändert oder überschrieben werden kann.
 
 
 //------------------------------------
