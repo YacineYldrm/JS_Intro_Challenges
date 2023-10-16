@@ -31,8 +31,8 @@ console.log(typeof {name:'John', age:34});
 console.log(typeof new Date());
 console.log(typeof function () {});
 console.log(typeof null);
-console.log(typeof 3 + 2 == 5);
-console.log(typeof 3 + "3");
+console.log(typeof (3 + 2 == 5));
+console.log(typeof (3 + "3"));
 
 //------------------------------------
 // 
