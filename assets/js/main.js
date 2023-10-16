@@ -159,7 +159,7 @@ document.write("<br>");
 document.write(wordOne + " " + "World");
 document.write("<br>");
 let meinString = "Ich bin Erste:r"
-meinString = meinString + " " + " " + "-" + " " + "Ich komme auf Platz zwei.";
+meinString += " " + " " + "-" + " " + "Ich komme auf Platz zwei.";
 document.write(meinString)
 
 //------------------------------------
